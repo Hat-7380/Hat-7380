@@ -45,8 +45,11 @@ motto:      "Explain it simply, or you don't understand it yet."
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>⚙️ dotfiles <sub><i>coming soon</i></sub></h4>
-      <p>My terminal, Linux setup, shortcuts, and wallpapers, all in one place.</p>
+      <h4>⚙️ <a href="https://github.com/Hat-7380/dotfiles">dotfiles</a></h4>
+      <p>My terminal, editor, shortcuts, and wallpapers, with a one-command installer. zsh + Powerlevel10k, Alacritty with Catppuccin, VS Code, and a Brewfile of every tool I use.</p>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white" />
+      <img src="https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white" />
     </td>
   </tr>
 </table>
